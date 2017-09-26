@@ -60,15 +60,20 @@
 	height: 5px;
 	padding-top: 81px;
 	background-color: #c45357;
+
 }
+
+
+
 
 #Header{
     width: 100%;
-    height: 74px;
+    height: 55px;
     background-color: black;
     position: fixed;
-    top: 0px;
+    top: -15px;
     left: 0px;
+    margin-bottom: 10px;
     
 }
 
@@ -78,34 +83,44 @@
 	height: 68px;  
 	background-color: #384255;
 	position: fixed; 
-	margin: 5px auto; 
+	margin: 0px auto; 
 }
 
-p, em{
+a {
 
-	font-family: "MingLiU-ExtB";
-	font-size: 20px;
-	text-align: center; 
-	margin-top: 23px;
-	margin-left: 35px;  
+	color: white;
+	font-family:MingLiU-ExtB; 
+	text-decoration: none;
+	font-size: 17px;
 	
 }
 
-p a:link, p a:visited, p a:active {
 
-	text-decoration: none;
-	color: white;
-	font-style: bold; 
+ul li {
+	
+	
+	float: right;
+	margin-right: 14.5%;
+	list-style: none;
+	width: 100px;
+	height: 55px;
+	text-align: center;
+	padding: 10px 0px 0px 0px;
+	
 }
 
-p a:hover {
+a:hover {
 
-	text-decoration: none;
-	color: White;
-	font-size: 20px; 
-	text-shadow: 1px 1px 1px white; 
+	color: grey;
 
 }
+
+
+ul li:hover {
+
+	color: black;
+}
+
 
 #footer{
 
