@@ -69,6 +69,7 @@
     position: fixed;
     top: 0px;
     left: 0px;
+    
 }
 
 #Navi {
@@ -86,7 +87,7 @@ p, em{
 	font-size: 20px;
 	text-align: center; 
 	margin-top: 23px;
-	margin-left: 53px;  
+	margin-left: 35px;  
 	
 }
 
@@ -127,6 +128,7 @@ p a:hover {
 
 #body {
 
-	margin-top: 41.5%;
+	margin-top: -2px;
+
 
 }
