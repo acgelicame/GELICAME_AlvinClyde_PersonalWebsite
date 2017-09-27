@@ -121,6 +121,52 @@ ul li:hover {
 	color: black;
 }
 
+img.Git{
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/Git.png');
+
+}
+
+img.Git:hover{
+	
+	width: 236px;
+	height: 250px;
+	background: url('Images/Githover.png');
+}
+
+img.Fb { 
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/facebook.png');
+}
+
+img.Fb:hover {
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/fbhover.png');
+
+}
+
+img.Google { 
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/Google.png');
+}
+
+img.Google:hover {
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/Googlehover.png');
+
+}
+
+
 
 #footer{
 	
