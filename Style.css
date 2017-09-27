@@ -151,21 +151,6 @@ img.Fb:hover {
 
 }
 
-img.Google { 
-	
-	width: 239px;
-	height: 250px;
-	background: url('Images/Google.png');
-}
-
-img.Google:hover {
-	
-	width: 239px;
-	height: 250px;
-	background: url('Images/Googlehover.png');
-
-}
-
 
 
 #footer{
