@@ -182,6 +182,22 @@ img.IG:hover {
 }
 
 
+img.Twitter{ 
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/twitter.png');
+}
+
+img.Twitter:hover {
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/twitterhover.png');
+
+}
+
+
 
 
 #footer{
