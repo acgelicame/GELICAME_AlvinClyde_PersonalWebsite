@@ -166,6 +166,22 @@ img.Google:hover {
 
 }
 
+img.IG{ 
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/Instagram.png');
+}
+
+img.IG:hover {
+	
+	width: 239px;
+	height: 250px;
+	background: url('Images/ighover.png');
+
+}
+
+
 
 
 #footer{
