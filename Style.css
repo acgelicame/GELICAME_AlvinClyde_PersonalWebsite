@@ -339,6 +339,13 @@ img.M {
 	background: url('Portraits/17.jpg');
 }
 
+img.M:hover {
+	
+	width: 956px;
+	height: 566px;
+	background: url('Portraits/17Hover.jpg');
+
+}
 
 
 #footer{
