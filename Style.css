@@ -325,6 +325,13 @@ img.L {
 	background: url('Portraits/16.jpg');
 }
 
+img.L:hover {
+
+	width: 956px;	
+	height: 566px;
+	background: url('Portraits/16Hover.jpg');
+}
+
 
 
 
