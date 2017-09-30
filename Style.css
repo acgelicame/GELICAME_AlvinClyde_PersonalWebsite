@@ -241,6 +241,16 @@ img.D:hover {
 	background: url('Portraits/5Hover.jpg');
 }
 
+img.E {
+	
+	width: 300px;
+	height: 300px;
+	background: url('Portraits/9.jpg');
+
+}
+
+
+
 #footer{
 	
 	margin-top: 5px;
