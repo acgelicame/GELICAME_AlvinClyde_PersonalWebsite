@@ -279,6 +279,13 @@ img.H {
 	background: url('Portraits/12.jpg');	
 }
 
+img.H:Hover {
+
+	width: 956px;	
+	height: 513px;
+	background: url('Portraits/12Hover.jpg');
+}
+
 img.I {
 
 	width: 300px;
