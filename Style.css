@@ -226,6 +226,20 @@ img.C {
 	background: url('Portraits/8.jpg');
 }
 
+img.D {
+
+
+	width: 956px;
+	height: 495px;
+	background: url('Portraits/5.jpg');
+}
+
+img.D:hover {
+
+	width: 956px;
+	height: 495px;
+	background: url('Portraits/5Hover.jpg');
+}
 
 #footer{
 	
