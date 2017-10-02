@@ -64,6 +64,29 @@
 
 }
 
+#home {
+
+	background-image: url('Images/background.jpg');
+	width: 100%;
+	height: 445px;
+	display: table;
+	background-attachment: fixed;
+	
+}
+
+#About {
+	
+	background-image: url('Images/Aboutme.jpg');
+	width: 100%;
+	height: 650px;
+	display: table;
+	background-attachment: fixed;
+
+	 
+}
+
+
+
 
 
 
