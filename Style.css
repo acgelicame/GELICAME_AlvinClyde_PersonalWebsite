@@ -2,7 +2,7 @@
 	
 	display: inline-box;
 	border-radius: 60px;
-	background-color: #384255;
+	background-color: #000000;
 	border: none;
 	text-align: center;
 	font-family: MingLiU-ExtB;
@@ -45,6 +45,7 @@
 
 .button:hover{
 	background-color: #384255;
+
 }
 
 .button:active{
@@ -120,6 +121,35 @@ a:hover {
 ul li:hover {
 
 	color: black;
+}
+
+
+img.AC{
+
+	width: 571px;
+	height: 123px;
+	background: url('Images/A.png');
+	transition: all .2s ease-in-out;
+
+}
+
+img.AC:hover{
+
+	width: 571px;
+	height: 123px;
+	transform: scale(1.1);
+	
+
+}
+
+
+
+
+img.ac:hover{
+
+	width: 1360px;
+	height: 123px;	
+	transform: scale(1.1);
 }
 
 img.Git{
@@ -376,6 +406,7 @@ img.Mama:hover {
 	
 	width: 197px;
 	height: 210px; 	
+	background: url('fam/Mamahover.png');
 	transform: scale(1.1);
 }
 
@@ -391,8 +422,81 @@ img.jam:hover {
 
 	width: 197px;
 	height: 210px;
+	background: url('fam/Jamhover.png');
 	transform: scale(1.1);
 }
+
+img.clyde {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/clyde.png');
+	transition: all .2s ease-in-out;
+}
+
+img.clyde:hover {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/Clydehover.png');
+	transform: scale(1.1);
+}
+
+
+img.ate {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/ate.png');
+	transition: all .2s ease-in-out;
+}
+
+img.ate:hover {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/Angelhover.png');
+	transform: scale(1.1);
+}
+
+img.aying {
+
+	width: 196px;
+	height: 202px;
+	background: url('fam/AYESHA.png');
+	transition: all .2s ease-in-out;
+}
+
+img.aying:hover {
+
+	width: 196px;
+	height: 203px;
+	background: url('fam/Ayeshahover.png');
+	transform: scale(1.1);
+}
+
+img.papa {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/PAPA.png');
+	transition: all .2s ease-in-out;
+}
+
+img.papa:hover {
+
+	width: 197px;
+	height: 210px;
+	background: url('fam/Papahover.png');
+	transform: scale(1.1);
+}
+
+
+#fam {
+	
+
+}
+
 
 #footer{
 	
@@ -401,7 +505,7 @@ img.jam:hover {
 	height: 39px;
 	color: white;
 	position: absolute;
-	background-color:#384255;
+	background-color:#000000;
 
 }
 
@@ -424,3 +528,6 @@ img.jam:hover {
 
 
 }
+
+
+
